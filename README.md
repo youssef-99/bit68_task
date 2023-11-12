@@ -73,7 +73,7 @@ A brief description of your Django app.
 - Create a `.env` file in the project directory and set your environment variables. You can use the `.env.example` file as a template.
 
     ```bash
-    cp .env.example .env
+    cp .env.example bit68_task/.env
     ```
 
 - Edit the `.env` file with your configuration.
