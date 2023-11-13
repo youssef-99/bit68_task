@@ -1,7 +1,4 @@
 # bit68_task
-# Your Django App Name
-
-A brief description of your Django app.
 
 ## Table of Contents
 
